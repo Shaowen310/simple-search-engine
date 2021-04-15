@@ -36,17 +36,3 @@ Split by whitespace and trim, remove empty tokens
 * Remove numbers
 * Case folding
 * Stemming -> porter stemmer
-
-### Directory Traversal
-
-## Report
-
-### Time 
-
-* to index the whole dataset
-* to sort a block
-* to merge blocks
-
-### Memory usage
-
-Memory usage vs block size parameter plot
