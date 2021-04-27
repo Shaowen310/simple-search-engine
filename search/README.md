@@ -1,4 +1,4 @@
-# Search with TF-IDF Ranking
+# Boolean Search with TF-IDF Ranking
 
 ## Data
 
